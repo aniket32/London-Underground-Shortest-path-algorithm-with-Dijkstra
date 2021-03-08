@@ -1,8 +1,6 @@
 import Dijkstra_with_DLL as dijk
 import GUI as gui
 
-# Testing commit and push in githib for VSC
-
 
 def run(station1, station2, time):
     """Function to run the Dijkstra algorithm and also format the output in a way that can be displayed in the
